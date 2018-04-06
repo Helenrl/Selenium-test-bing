@@ -1,0 +1,6 @@
+C:\projects\BING-TEST\UnitTestProject-BING\UnitTestProject-BING\bin\Release\UnitTestProject-BING.dll
+C:\projects\BING-TEST\UnitTestProject-BING\UnitTestProject-BING\bin\Release\UnitTestProject-BING.pdb
+C:\projects\BING-TEST\UnitTestProject-BING\UnitTestProject-BING\bin\Release\WebDriver.dll
+C:\projects\BING-TEST\UnitTestProject-BING\UnitTestProject-BING\bin\Release\WebDriver.xml
+C:\projects\BING-TEST\UnitTestProject-BING\UnitTestProject-BING\obj\Release\UnitTestProject-BING.dll
+C:\projects\BING-TEST\UnitTestProject-BING\UnitTestProject-BING\obj\Release\UnitTestProject-BING.pdb
